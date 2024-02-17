@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Anand Bose. I used to do [#AndroidDev](https://anandbose.dev/tag/AndroidDev/) since Android 2.3 (Gingerbread). Kotlin enthusiast since the 1.0 of the language. I am currently working as lead of Android team at [Appstation](https://appstation.in) and [Applab](https://applab.qa).
+
+A few things I enjoy:
+* Making apps for Android with Kotlin and Jetpack compose
+* Tinkeing on Linux and containers
+* Blogging and talking tech
+* Having fun times with family
+* Photography
+
+## Links
+
+You can find my presence on these few parts of the internet:
+* GitHub [@anandbosedev](https://github.com/anandbosedev)
+* LinkedIn [@anandbosedev](https://linkedin.com/in/anandbosedev)
+* Mastodon [@anandbose@mastodon.online](https://mastodon.online/@anandbose)
+* BlueSky [@anandbose.dev](https://bsky.app/profile/anandbose.dev)
