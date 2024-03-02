@@ -32,7 +32,6 @@ You can find my presence on these few parts of the internet:
 * GitHub [@anandbosedev](https://github.com/anandbosedev)
 * LinkedIn [@anandbosedev](https://linkedin.com/in/anandbosedev)
 * Mastodon [@anandbose@mastodon.online](https://mastodon.online/@anandbose)
-* Bluesky [@anandbose.dev](https://bsky.app/profile/anandbose.dev)
 
 Or, you can write directly to me on anandbose16[at]gmail[dot]com
 
